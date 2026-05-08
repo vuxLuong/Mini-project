@@ -1,0 +1,19 @@
+#main-picture {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+#main-picture img {
+    width: 400px;
+}
+
+#cover-picture {
+    position: absolute;
+
+    width: 400px;
+    height: 400px;
+    background-color: rgba(211, 51, 144, 1);
+    transition: 0.5s;
+    z-index: 2;
+}
