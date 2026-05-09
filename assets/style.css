@@ -13,7 +13,15 @@
 
     width: 400px;
     height: 400px;
-    background-color: rgba(211, 51, 144, 1);
+    background-color: #07f6e2;
     transition: 0.5s;
     z-index: 2;
 }
+
+#open-btn {
+    padding: 20px 40px;
+    border-radius: 20px;
+    background-color: #07f6e2;
+    color: #fff
+}
+
