@@ -13,7 +13,7 @@
 
     width: 400px;
     height: 400px;
-    background-color: #07f6e2;
+    background-color: #ffc5d3;
     transition: 0.5s;
     z-index: 2;
 }
@@ -21,7 +21,7 @@
 #open-btn {
     padding: 20px 40px;
     border-radius: 20px;
-    background-color: #07f6e2;
-    color: #fff
+    background-color: #ffc5d3;
+    /* color: #fff */
 }
 
